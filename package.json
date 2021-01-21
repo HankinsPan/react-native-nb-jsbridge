@@ -12,6 +12,17 @@
     "H5",
     "Native"
   ],
+  "files": [
+    "assets",
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HankinsPan/react-native-nb-jsbridge.git"
+  },
   "homepage": "https://github.com/HankinsPan/react-native-nb-jsbridge#readme",
   "devDependencies": {
     "react-native-webview-invoke": "^0.6.2",
