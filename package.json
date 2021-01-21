@@ -12,6 +12,7 @@
     "H5",
     "Native"
   ],
+  "homepage": "https://github.com/HankinsPan/react-native-nb-jsbridge#readme",
   "devDependencies": {
     "react-native-webview-invoke": "^0.6.2",
     "prop-types": "^15.7.2"
