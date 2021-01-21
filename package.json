@@ -1,0 +1,25 @@
+{
+  "name": "react-native-nb-jsbridge",
+  "version": "1.0.0",
+  "description": "js-bridge native with H5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "jsBridge",
+    "H5",
+    "Native"
+  ],
+  "devDependencies": {
+    "react-native-webview-invoke": "^0.6.2",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-native": ">=0.60.0"
+  },
+  "author": "hankins",
+  "license": "ISC"
+}
